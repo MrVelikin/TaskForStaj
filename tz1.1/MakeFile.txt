@@ -1,0 +1,2 @@
+prog1: prog1.cpp
+	sudo gcc prog1.cpp -o prog1
